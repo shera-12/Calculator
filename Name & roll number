@@ -1,10 +1,26 @@
 Console.WriteLine(" Name = Ahsan Sheraz");
 Console.WriteLine(" Roll number= 24-st-089");
+ multiplicaiton
+
+
+
+
+
+
+
+
+ multiplicaiton
+int a;
+int b;
+int multi = a * b; 
+Console.WriteLine(multi);
+
  addition
 int a; 
 int b; 
 int sum = a + b; 
 Console.WriteLine(sum);
+ main
 
 
 
@@ -12,6 +28,12 @@ Console.WriteLine(sum);
 
 int a;
 int b;
+ multiplicaiton
+int div = a/b;
+Console.WriteLine(div);
+division
+
 int sub = a - b;
 Conolse.WriteLine(sub);
 subtraction
+ main
