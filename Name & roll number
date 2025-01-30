@@ -1,5 +1,11 @@
 Console.WriteLine(" Name = Ahsan Sheraz");
 Console.WriteLine(" Roll number= 24-st-089");
+ addition
+int a; 
+int b; 
+int sum = a + b; 
+Console.WriteLine(sum);
+
 
 
 
@@ -8,3 +14,4 @@ int a;
 int b;
 int sub = a - b;
 Conolse.WriteLine(sub);
+subtraction
