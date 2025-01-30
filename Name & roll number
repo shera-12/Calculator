@@ -1,2 +1,18 @@
 Console.WriteLine(" Name = Ahsan Sheraz");
 Console.WriteLine(" Roll number= 24-st-089");
+
+
+
+
+
+
+
+
+
+
+
+
+int a;
+int b;
+int div = a/b;
+Console.WriteLine(div);
